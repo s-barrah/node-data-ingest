@@ -1,7 +1,9 @@
 {
-  "name": "nodedemo",
+  "name": "node-data-ingest",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "Node XLSX Data ingestion application",
+  "author": "Sidney Barrah",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -16,7 +18,6 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongoose": "^5.7.5",
-    "node-fetch": "^2.6.0",
     "xlsx": "^0.15.1"
   },
   "devDependencies": {
